@@ -1,4 +1,20 @@
 body{
     margin: 0;
     padding: 0;
+    text-align: center;
+    font-size: 18px;
+}
+textarea{
+    font-size: 18px;
+}
+.import{
+    resize: none;
+}
+.export{
+    width: 480px;
+    height: 160px;
+    border: 1px solid orange;
+    margin: 0 auto;
+    text-align: left;
+    resize: none;
 }
